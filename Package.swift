@@ -20,18 +20,18 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "VLCKitXC",
-            url: "https://github.com/zackaryhuang/vlckit-spm/releases/download/3.7.1/VLCKit.xcframework.zip",
-            checksum: "9e6337c1f13481fb062724b0d76fd21aa9bf34ab5ab69b6730d2ca18c87717d5"
+            url: "https://github.com/zackaryhuang/vlckit-spm/releases/download/3.7.2/VLCKit.xcframework.zip",
+            checksum: "ef0752f8c2f50f9023655f4b32168053020b48219413931b7020cbf3d150dc7b"
         ),
         .binaryTarget(
             name: "MobileVLCKitXC",
-            url: "https://github.com/zackaryhuang/vlckit-spm/releases/download/3.7.1/MobileVLCKit.xcframework.zip",
-            checksum: "98a63be030b8e6d076516f3e754a59ce144f9052100e4c542fc8f770543f616f"
+            url: "https://github.com/zackaryhuang/vlckit-spm/releases/download/3.7.2/MobileVLCKit.xcframework.zip",
+            checksum: "103cd4ecd3d74f056fa54e6b5295723be55d5a35c9b45f9c93632d269f34c96c"
         ),
         .binaryTarget(
             name: "TVVLCKitXC",
-            url: "https://github.com/zackaryhuang/vlckit-spm/releases/download/3.7.1/TVVLCKit.xcframework.zip",
-            checksum: "aa39aa6c1a9e594e0fa77494ffc423cbc53d0873adc984c3f5ea6664251c9107"
+            url: "https://github.com/zackaryhuang/vlckit-spm/releases/download/3.7.2/TVVLCKit.xcframework.zip",
+            checksum: "7b3462d0d5a6da3fea75adc8a2b69741ed235aea34159cdb8b5209fb8cfdcec4"
         ),
         .target(
             name: "VLCKitSPM",
